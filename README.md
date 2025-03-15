@@ -22,5 +22,3 @@ I use DB Browser (SQLite) to look at the the database outside of Excel. While th
 https://sqlitebrowser.org/
 
 -----------
-
-To take off the Footer message with my name and contact, click the gray area underneath.
